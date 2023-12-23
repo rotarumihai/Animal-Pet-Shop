@@ -19,6 +19,6 @@ var server = app.listen(8081, function () {
    console.log("Example app listening at http://%s:%s", host, port)
 })
 
-// After running the file, access the link: http://127.0.0.1:8010/2 to see animal with id of 2
+// After running the file, access the link: http://127.0.0.1:8081/2 to see animal with id of 2
 
 // You can choose by entering at the end of the url any id (from 1 to 4) you want.
