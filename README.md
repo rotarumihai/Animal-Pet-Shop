@@ -8,8 +8,8 @@ This Node.js application provides a simple API for managing a pet store. It supp
 
 Before running the application, make sure to install the necessary dependencies:
 
-```bash
-npm install express
+**bash**
+```npm install express```
 
 ## API Endpoints
 ### 1. List Animals
@@ -21,9 +21,9 @@ http://127.0.0.1:8081/listAnimals
 
 To add a new animal, use a tool like curl or Postman. For example:
 
-bash
+**bash**
 
-curl -X POST -H "Content-Type: application/json" -d '{"name":"Birman","id":5,"weight":"4.7 kg","price":"2000 USD"}' http://127.0.0.1:8081/addAnimal
+```curl -X POST -H "Content-Type: application/json" -d '{"name":"Birman","id":5,"weight":"4.7 kg","price":"2000 USD"}' http://127.0.0.1:8081/addAnimal```
 
 ### 3. Updated List of Animals
 
@@ -56,6 +56,6 @@ http://127.0.0.1:8081/2
 
     node_modules: Folder containing the 'express' dependency. If you have not installed it yet, use the following command:
 
-    bash
+    **bash**
 
-npm i express
+```npm i express```
