@@ -1,0 +1,31 @@
+This is a copy of intial file animals.json, use it every time you want to start the Node server operations from scratch.
+
+{
+    "animal1" : {
+       "name" : "Afgan Hound",
+       "id": 1,
+       "weight" : "28 kg",
+       "price" : "6000 USD"
+    },
+    
+    "animal2" : {
+       "name" : "Abyssinian",
+       "id" : 2,
+       "weight" : "4.5 kg",
+       "price": "1500 USD"
+    },
+    
+    "animal3" : {
+       "name" : "Hamster",
+       "id": 3,
+       "weight" : "100 g",
+       "price" : "12 USD"   
+    },
+
+    "animal4" : {
+      "name" : "Akita",
+      "id": 4,
+      "weight" : "35 kg",
+      "price" : "2000 USD"
+    }
+ }
