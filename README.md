@@ -56,6 +56,6 @@ http://127.0.0.1:8081/2
 
     node_modules: Folder containing the 'express' dependency. If you have not installed it yet, use the following command:
 
-    **bash**
+**bash**
 
 ```npm i express```
